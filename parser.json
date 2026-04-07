@@ -1,8 +1,7 @@
 {
+  "lang": "git_rebase",
   "url": "https://github.com/the-mikedavis/tree-sitter-git-rebase",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "git_rebase"
+  "parser_version": "760ba8e34e7a68294ffb9c495e1388e030366188",
+  "location": null
 }
